@@ -22,3 +22,8 @@
 * flex-basis
 * flex
 * align-self
+<br/>
+<br/>
+<p align="center">
+  <img width="450" src="img/flex.png" alt="Flexbox">
+</p>
